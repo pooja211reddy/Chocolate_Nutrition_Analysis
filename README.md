@@ -1,4 +1,4 @@
-# 🍫 Chocolate Product Data Analysis — Power BI & SQL Dashboard
+# 🍫 Chocolate Nutrition Data Analysis — Power BI & SQL Dashboard
 
 A complete **data analysis and visualization project** exploring the nutritional composition of chocolate and related products using **Python (Pandas, SQLAlchemy, MySQL)** and **Power BI**.  
 This project performs **data cleaning**, **feature engineering**, and **exploratory data analysis (EDA)** to uncover insights into product health metrics, brand behavior, and nutritional classifications.
