@@ -131,24 +131,6 @@ chocolate-analysis/
 
 ---
 
-## ⚙️ How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/chocolate-data-analysis.git
-   cd chocolate-data-analysis
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook notebooks/chocolate_data_cleaning.ipynb
-   ```
-4. Set up the MySQL database using scripts in `/sql/`.
-5. Open the Power BI file (`.pbix`) and connect it to your MySQL database.
-
----
 
 ## 🧭 Future Enhancements
 - Automate ETL pipeline for daily product updates.  
@@ -161,8 +143,8 @@ chocolate-analysis/
 ## 🧑‍💻 Author
 **[Your Name]**  
 Data Analyst | Python | SQL | Power BI  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+📧 pooja211reddy@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/pooja211reddy)
 
 ---
 
