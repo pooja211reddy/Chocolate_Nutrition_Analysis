@@ -141,7 +141,7 @@ chocolate-analysis/
 ---
 
 ## 🧑‍💻 Author
-**[Your Name]**  
+Pooja Reddy Nedhunuri  
 Data Analyst | Python | SQL | Power BI  
 📧 pooja211reddy@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/pooja211reddy)
